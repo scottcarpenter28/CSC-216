@@ -1,0 +1,6 @@
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\Othelo\Othelo\bin\Debug\Othelo.exe.config
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\Othelo\Othelo\bin\Debug\Othelo.exe
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\Othelo\Othelo\bin\Debug\Othelo.pdb
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\Othelo\Othelo\obj\Debug\Othelo.csprojResolveAssemblyReference.cache
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\Othelo\Othelo\obj\Debug\Othelo.exe
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\Othelo\Othelo\obj\Debug\Othelo.pdb

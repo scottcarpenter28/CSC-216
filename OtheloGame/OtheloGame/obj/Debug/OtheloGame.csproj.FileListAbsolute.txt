@@ -1,0 +1,9 @@
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\OtheloGame\OtheloGame\bin\Debug\OtheloGame.exe.config
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\OtheloGame\OtheloGame\bin\Debug\OtheloGame.exe
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\OtheloGame\OtheloGame\bin\Debug\OtheloGame.pdb
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\OtheloGame\OtheloGame\obj\Debug\OtheloGame.csprojResolveAssemblyReference.cache
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\OtheloGame\OtheloGame\obj\Debug\OtheloGame.OtheloForm.resources
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\OtheloGame\OtheloGame\obj\Debug\OtheloGame.Properties.Resources.resources
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\OtheloGame\OtheloGame\obj\Debug\OtheloGame.csproj.GenerateResource.Cache
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\OtheloGame\OtheloGame\obj\Debug\OtheloGame.exe
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\OtheloGame\OtheloGame\obj\Debug\OtheloGame.pdb

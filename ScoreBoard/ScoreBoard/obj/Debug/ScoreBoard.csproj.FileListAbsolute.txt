@@ -1,0 +1,9 @@
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\ScoreBoard\ScoreBoard\bin\Debug\ScoreBoard.exe.config
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\ScoreBoard\ScoreBoard\bin\Debug\ScoreBoard.exe
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\ScoreBoard\ScoreBoard\bin\Debug\ScoreBoard.pdb
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\ScoreBoard\ScoreBoard\obj\Debug\ScoreBoard.csprojResolveAssemblyReference.cache
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\ScoreBoard\ScoreBoard\obj\Debug\ScoreBoard.Form1.resources
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\ScoreBoard\ScoreBoard\obj\Debug\ScoreBoard.Properties.Resources.resources
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\ScoreBoard\ScoreBoard\obj\Debug\ScoreBoard.csproj.GenerateResource.Cache
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\ScoreBoard\ScoreBoard\obj\Debug\ScoreBoard.exe
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\ScoreBoard\ScoreBoard\obj\Debug\ScoreBoard.pdb

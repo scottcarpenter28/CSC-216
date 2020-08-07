@@ -1,0 +1,6 @@
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\EmployeeTester\EmployeeTester\bin\Debug\EmployeeTester.exe.config
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\EmployeeTester\EmployeeTester\bin\Debug\EmployeeTester.exe
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\EmployeeTester\EmployeeTester\bin\Debug\EmployeeTester.pdb
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\EmployeeTester\EmployeeTester\obj\Debug\EmployeeTester.csprojResolveAssemblyReference.cache
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\EmployeeTester\EmployeeTester\obj\Debug\EmployeeTester.exe
+c:\users\scottcarpenter\documents\visual studio 2015\Projects\EmployeeTester\EmployeeTester\obj\Debug\EmployeeTester.pdb
